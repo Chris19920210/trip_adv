@@ -1,0 +1,24 @@
+1 Factorization machine:
+codes:
+	feature_engineering.py
+	final_prediction.py
+	Factorization_machine.py
+results:
+	result_no_looked_at.txt(doesn't include looked-at hotels)
+	result_have_looked_at.txt(include looked-at hotels)
+
+
+2 Collaborative filtering:
+codes:
+	cl.py
+results:
+	result_cl.txt
+
+Usage:
+	ALl can be run in terminal: python ****.py
+
+Key Modules:
+	sklearn fastfm
+
+
+
